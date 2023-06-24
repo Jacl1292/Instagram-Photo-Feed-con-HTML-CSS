@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(195, 195, 204);
+}
+.tit{
+    background-color: white;
+    height: 50px;
+}
+.tit h1{
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+}
+.post{
+    width: 400px;
+    height: 440px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+}
+.posthead{
+   
+    height: 60px;
+    
+}
+.posthead h3{
+float: left;
+margin-left: 5px;
+}
+.posthead h5{
+    float: right;
+    color: rgb(136, 126, 126);
+    margin-right: 5px;
+}
+.img {
+    height: 360px;
+    width: 400p;
+}
+.img img{
+    height: 300px;
+    width: 400p;
+}
+.text{
+    height: 60px;
+    width: 400p;
+    
+}
+.text p{
+    margin-left: 5px;
+    margin-right: 5px;
+}
